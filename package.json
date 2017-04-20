@@ -18,6 +18,8 @@
   "homepage": "https://github.com/LucasMcL/001-more-express-api#readme",
   "dependencies": {
     "bookshelf": "^0.10.3",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.2",
     "knex": "^0.12.9",
     "pg": "^6.1.5"
   }
