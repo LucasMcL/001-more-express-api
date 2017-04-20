@@ -1,0 +1,24 @@
+{
+  "name": "001-more-express-api",
+  "version": "1.0.0",
+  "description": "Express api practice",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasMcL/001-more-express-api.git"
+  },
+  "author": "Lucas McLaughlin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LucasMcL/001-more-express-api/issues"
+  },
+  "homepage": "https://github.com/LucasMcL/001-more-express-api#readme",
+  "dependencies": {
+    "bookshelf": "^0.10.3",
+    "knex": "^0.12.9",
+    "pg": "^6.1.5"
+  }
+}
